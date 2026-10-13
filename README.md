@@ -53,7 +53,7 @@ sudo systemctl daemon-reload && sudo systemctl enable --now agent
 
 ## 相关
 
-- 文章：<https://embedai.com.cn/posts/deploy-agent-on-jetson>
+- 站点 / 系列「从 0 构建 AI Agent」（文章待发布）：<https://embedai.com.cn>
 - 姊妹仓库（Agent 主循环）：<https://github.com/zishuowang696/agent-from-scratch>
 - MCP：<https://github.com/zishuowang696/mcp-demo>
 
